@@ -7,4 +7,3 @@ python-dotenv
 streamlit
 PyPDF2
 scikit-learn
-langchain.text_splitter'
